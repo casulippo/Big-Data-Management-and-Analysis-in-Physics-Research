@@ -1,0 +1,6 @@
+# git ignore this type of file
+.ipynb_checkpoints/
+.idea/
+.cache/
+.local/
+.config/
