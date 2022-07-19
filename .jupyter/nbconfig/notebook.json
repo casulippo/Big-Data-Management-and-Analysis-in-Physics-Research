@@ -1,0 +1,11 @@
+{
+  "load_extensions": {
+    "codefolding/main": true,
+    "..": true,
+    ".": true,
+    "../": true,
+    "nbextension/Contents": true,
+    "Contents": true,
+    "toc2/main": true
+  }
+}
