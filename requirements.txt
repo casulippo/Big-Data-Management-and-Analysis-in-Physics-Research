@@ -1,1 +1,2 @@
 pmdarima==1.8.5
+tensorflow==2.9.1
