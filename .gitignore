@@ -4,3 +4,5 @@
 .cache/
 .local/
 .config/
+.ipython
+.bash_history
