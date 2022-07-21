@@ -6,3 +6,4 @@
 .config/
 .ipython
 .bash_history
+.keras/
